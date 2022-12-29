@@ -19,17 +19,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-|           |                07:00 às 12:00                        |                   13:00 às 17:00                               |             19:00 às 23:00        |
-|-----------|------------------------------------------------|----------------------------------------------------------------|------------------------------------|    
-|  Week     |            Morning                             |                   Afternoon                                    |                Night               |
-|           |                                                |                                                                |                                    | 
-|*Sunday    | - Vue. - HTTPS. - Logbook.       |  - Orange. - HTML. - Logbook.      |          - CSS. - JavaScript. - General Diary. 
-|*Monday    | - Vue. - HTTPS. - Logbook.       |  - Orange. - HTML. - Logbook.      |      - CSS. - JavaScript. - General Diary. |                
-|*Tuesday  | - BootStrap. -DOM. - Logbook.    |  - Orange. - HTTPS. - Logbook.     |            - Vue. - HTML. - General Diary.
-|*Wednesday | - BootStrap. - DOM.  - Logbook.  |  - Orange. - HTTPS. - Logbook.     |             - Vue. - HTML. - General Diary.
-|*Thursday  | - DOM. - Linux.- Logbook.        |  - Orange. - Vue.  - Logbook.      |             - JavaScript.  - General Diary.
-|*Friday    | - DOM. - Linux. - Logbook.       |  - Orange. - Vue.   - Logbook.     |           - Repositories Work. - General Diary.
-|*Saturday  |           -REVIEW.               |            -REVIEW.                |           - Repositories Work. - General Diary.
-
